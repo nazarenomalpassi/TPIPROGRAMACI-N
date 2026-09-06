@@ -1,10 +1,42 @@
-# TPIPROGRAMACI-N
-Repositorio para TPI de programación I
-Este proyecto práctico se centra en la aplicación y demostración de algoritmos de ordenamiento y búsqueda, conceptos fundamentales en la programación y el manejo eficiente de datos. Hemos desarrollado un programa en Python que simula una situación cotidiana: la gestión de notas de alumnos. El propósito es ilustrar de manera clara y práctica cómo estos algoritmos operan sobre una lista de datos numéricos. Específicamente, el programa utiliza el algoritmo de Ordenamiento por Selección para organizar las notas de la clase  y, posteriormente, aplica el método de Búsqueda Binaria para determinar si una nota específica existe dentro del registro ya ordenado. Este enfoque no solo permite comprender el funcionamiento de estas metodologías, sino también la crucial importancia de la organización de los datos para realizar búsquedas de manera más eficiente.
-Este trabajo práctico integrador ha sido una experiencia sumamente enriquecedora para nosotros, Francisco López y Nazareno Malpassi. Más allá de repasar conceptos teóricos, nos permitió llevarlos a la práctica mediante la implementación de algoritmos en Python, explorando casos concretos que nos facilitaron visualizar su funcionamiento.
-Creemos que esta experiencia ha sido clave para afianzar los conocimientos adquiridos en Programación I. La implementación del Ordenamiento por Selección nos hizo apreciar cómo, a través de pasos sistemáticos, se logra organizar un conjunto de datos. Por otro lado, la utilización de la Búsqueda Binaria fue reveladora, ya que puso de manifiesto la crítica dependencia entre la organización de los datos y la eficiencia de las operaciones de búsqueda. Se evidenció claramente cómo, al operar sobre una colección ordenada, este algoritmo optimiza significativamente el tiempo de localización de un elemento.
-En síntesis, esta experiencia práctica no solo facilitó la comprensión de la lógica inherente a estos algoritmos esenciales, sino que también subrayó la trascendental importancia de la estructuración de los datos para la optimización del rendimiento algorítmico. Nos reafirma que la selección apropiada de un algoritmo es un factor determinante en la eficiencia y escalabilidad de las soluciones de software, especialmente al procesar volúmenes considerables de información. Estamos convencidos de que esta práctica nos prepara mejor para desafíos más avanzados en nuestra formación como programadores.
-En el repositorio tenemos el archivo .py en el cual se encuentra desarrollado el caso práctico, un archivo ppt el cual utilizamos para realizar la exposición en el video, y un archivos doc, donde se encuentra desarrollado todo el tema en cuestión.
+# Gestión de notas en Python
 
-LINK DEL VIDEO:
-https://youtu.be/D2VzvrF935M
+### Trabajo Práctico Integrador · Programación I
+
+Ejemplo práctico de **ordenamiento por selección** y **búsqueda binaria**, aplicado a las notas de una clase.
+
+## Qué hace
+
+El programa trabaja sobre una lista de notas, las ordena y permite buscar un valor. El caso muestra por qué la búsqueda binaria necesita recibir datos ordenados.
+
+## Conceptos trabajados
+
+- Listas y recorridos en Python.
+- Ordenamiento por selección.
+- Búsqueda binaria sobre una lista ordenada.
+- Organización de datos y razonamiento algorítmico.
+
+## Archivos
+
+| Archivo | Contenido |
+| --- | --- |
+| [TPI-Programacion.py](TPI-Programacion.py) | Código del caso práctico |
+| [Trabajo Práctico Integrador Programación I.docx](Trabajo%20Pr%C3%A1ctico%20Integrador%20Programaci%C3%B3n%20I.docx) | Desarrollo escrito del trabajo |
+| [Trabajo práctico integrador programación i.pptx](Trabajo%20pr%C3%A1ctico%20integrador%20programaci%C3%B3n%20i.pptx) | Presentación de la exposición |
+
+## Ejecutar
+
+Con Python 3 instalado:
+
+```bash
+python TPI-Programacion.py
+```
+
+## Presentación
+
+[Ver la exposición en YouTube](https://youtu.be/D2VzvrF935M)
+
+## Autores
+
+**Francisco López y Nazareno Malpassi.**
+
+Trabajo académico de Programación I, realizado como parte de la formación en la Tecnicatura Universitaria en Programación.
